@@ -1,0 +1,46 @@
+#input{
+    border: 1px solid;
+    margin-top: 20vh;
+
+    height: 400px;
+    position: relative;
+}
+
+#output{  
+    border: 1px solid;
+    margin-top:20vh;
+
+    height: 400px;
+}
+
+.main{
+    margin-top: 30px;   
+}
+
+body{
+    background-size: cover;
+    //background-image: url(../pic/cat.jpg);
+    background-repeat: no-repeat;
+}
+
+.nav_container{
+    margin-top:50px;   
+}
+
+#upload{
+    position: absolute;
+    bottom:0px;
+}
+
+#input_picture{
+    position: absolute;
+    top:0px;
+    height: 350px;
+    //border:1px solid;
+}
+
+#go_icon{
+    margin-top: 35vh;
+    padding:30px;
+    padding-left:50px;
+}
